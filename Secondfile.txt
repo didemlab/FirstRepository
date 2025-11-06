@@ -1,4 +1,4 @@
 This is the 2nd file created by Developer1
 Change made to understand .git id
 
-Text added to test merge from github
+Text added to test merge from github2
